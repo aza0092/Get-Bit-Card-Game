@@ -1,4 +1,4 @@
-# Get-Bit-Card-Game - C# based App
+# Get-Bit-Card-Game - C# based Game
 
 Rules of the game: https://boardgamegeek.com/boardgame/30539/get-bit
 
@@ -28,9 +28,9 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 |:---:|:---:|
 | Start Game  | Bot difficulty Options |
 
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/invalid%20credentials.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20acc.png) |
+| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardColors.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardSets.PNG) |
 |:---:|:---:|
-| The app has functionality to check for invalid credentials | Create new account screen |
+| Colors of cards in the game and the shark | Card sets options to choose from each round(1-7) |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/recipes.png) |
 |:---:|
