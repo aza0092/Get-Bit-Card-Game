@@ -23,6 +23,7 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 - `Shark` used to damage the player's health when they are in the last position of the card set.
 - `Unit` used to link cards' colors.
 
+
 ## Images
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/startGame.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/botDifficulty.png) |
 |:---:|:---:|
@@ -43,9 +44,10 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 |:---:|:---:|
 | players losing limb when getting in last position | player who lost all their limb no longer in the game (card removed ) |
 
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20rec.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20ing%20or%20add%20new.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20new%20descr.png) |
-|:---:|:---:|:---:|
-| Edit an existent recipe pages 1| Edit an existent recipe pages 2| Edit an existent recipe pages 3|
+
+| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/healthDead.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/winner.png) |
+|:---:|:---:|
+| dead player indicated | winner annoucned at end of game |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20recipe%20new%20descri%20plus%20image.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20added.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20dir.png) |
 |:---:|:---:|:---:|
