@@ -11,16 +11,22 @@ The Get Bit! card game is a survival game. Players are placed on orders based on
 Before the start of the game, the player can set the bot difficulty (easy - meduim - hard). The game also keeps track of each player's health, position, and card color (Blue - Yellow - Green - Gray).
 
 ## Technical 
-- `adapters` folder contains adapters for: database - directions - ingredients - main page - recipes - viewPager for a single recipe (Ingrediants, Directions). 
-- `dao` folder contains data access objects for: directions - ingredients - SQLiteDatabaseHelper - recipes - users (id, password, name, email). 
-- `models` folder contains classes to define a: database - direction - ingredient - recipe - user.
-- `ui` folder contains the fragments for the different cuisines and the activities.
-- `utils` folder contains snippets of code for various functionalities.
+- `Card` stores the value (health) of the card which is linked to a player. 
+- `CharacterAI` makes an abstraction for new AI player for the game.
+- `DifficultCharacterAI` creates a new AI player for the game with a hard difficulty. This puts the human player in the last position in the first round to put them at a disadvantage health-wise.
+- `MediumCharacterAI` creates a new AI player for the game with a meduim difficulty. This puts the human player 3 positions behind in the first round to put them at a disadvantage health-wise.
+- `EasyCharacterAI` creates a new AI player for the game with an easy difficulty. This puts the human player at any position randomly without a disadvantage health-wise.
+- `Form1` draws the template of the game and includes the main functionalities (update health, change positions, check last position, move players, draw cards, indicate a dead player).- `Form1` draws the template of the game and includes the main functionalities (update health, change positions, check last position, move players, draw cards, indicate a dead player).
+- `Form2` used to start a new game when the initial game ends.
+- `IGameObject` used to link graphics to the card face.
+- `Player` used to hold info for the human player (health, position, card chosen, check death).
+- `Shark` used to damage the player's health when they are in the last position of the card set.
+- `Unit` used to link cards' colors.
 
 ## Images
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/splash%20screen.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/main%20screen.png) |
+| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/startGame.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/botDifficulty.png) |
 |:---:|:---:|
-| The splash screen  | main screen when the app is first opened |
+| Start Game  | Bot difficulty Options |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/invalid%20credentials.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20acc.png) |
 |:---:|:---:|
