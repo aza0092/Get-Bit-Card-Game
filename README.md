@@ -6,9 +6,9 @@ Rules of the game: https://boardgamegeek.com/boardgame/30539/get-bit
 
 ## Description
 
-The Get Bit! card game is a survival game. Players are placed on orders based on drawn cards, and the player who is in the last order get bitten by the shark and loses a limb and then is placed in front of the line. Players who eventually lose all their limbs die. The player who has the most limbs after there is only two players wins the game.
+The Get Bit! card game is a survival game. Players are placed on orders based on drawn cards, and the player who is in the last order get bitten by the shark and loses a limb and then is placed in front of the line. Players who eventually lose all their limbs die. The player who has the most limbs (highest health) after there is only two players is the winner of the game.
 
-Before the start of the game, the player can set the bot difficulty (easy - meduim - hard). The game also keeps track of each player's health, position, and card color (Blue - Yellow - Green - Gray).
+Before the start of the game, the player can set the bot difficulty (easy - meduim - hard). The game also keeps track of each player's health, position, and card color (Blue - Yellow - Green - Gray). Also, players can check instructions from the help dropdown menu.
 
 ## Technical 
 - `Card` stores the value (health) of the card which is linked to a player. 
@@ -30,9 +30,11 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 | Start Game  | Bot difficulty Options |
 
 
+
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardColors.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardSets.PNG) |
 |:---:|:---:|
 | Colors of cards in the game and the shark | Card sets options to choose from each round(1-7) |
+
 
 
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/health.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/status.PNG) |
@@ -40,9 +42,11 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 | Players' heatlh updates after every round | Players' statuses updates after every round |
 
 
+
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/limbs.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/dead.PNG) |
 |:---:|:---:|
 | players losing limb when getting in last position | player who lost all their limb no longer in the game (card removed ) |
+
 
 
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/healthDead.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/winner.png) |
