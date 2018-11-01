@@ -45,4 +45,3 @@ The app uttilizes Material Design.
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/material%20design.gif) |
 |:---:|
 | Material Design motions |
-
