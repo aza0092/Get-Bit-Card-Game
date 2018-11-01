@@ -48,11 +48,3 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/healthDead.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/winner.png) |
 |:---:|:---:|
 | dead player indicated | winner annoucned at end of game |
-
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20recipe%20new%20descri%20plus%20image.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20added.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/new%20rec%20dir.png) |
-|:---:|:---:|:---:|
-| Add new recipe| New recipe ingredients| New recipe directions|
-
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/material%20design.gif) |
-|:---:|
-| Material Design motions |
