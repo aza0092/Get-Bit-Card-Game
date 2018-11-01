@@ -2,13 +2,13 @@
 
 Rules of the game: https://boardgamegeek.com/boardgame/30539/get-bit
 
-![main screen](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/startGame.png)
+![main screen](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/mainScreen.jpg)
 
 ## Description
 
-The Recipe App is an Android app made using Android Studio. It is created so that users can create new account, sign in & out, make new recipes, edit/delete their info, and add pictures to them. 
+The Get Bit! card game is a survival game. Players are placed on orders based on drawn cards, and the player who is in the last order get bitten by the shark and loses a limb and then is placed in front of the line. Players who eventually lose all their limbs die. The player who has the most limbs after there is only two players wins the game.
 
-The app uttilizes Material Design.
+Before the start of the game, the player can set the bot difficulty (easy - meduim - hard). The game also keeps track of each player's health, position, and card color (Blue - Yellow - Green - Gray).
 
 ## Technical 
 - `adapters` folder contains adapters for: database - directions - ingredients - main page - recipes - viewPager for a single recipe (Ingrediants, Directions). 
