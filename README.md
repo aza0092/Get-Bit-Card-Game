@@ -51,4 +51,4 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/healthDead.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/winner.png) |
 |:---:|:---:|
-| dead player indicated | winner annoucned at end of game |
+| dead player indicated | winner annoucned at end of game (player with highest health)|
