@@ -32,9 +32,9 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 |:---:|:---:|
 | Colors of cards in the game and the shark | Card sets options to choose from each round(1-7) |
 
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/recipes.png) |
-|:---:|
-| Recipes are divided into 5 cuisines: American - Vegan - Asian - Mediterrean - European | 
+| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/health.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/status.PNG) |
+|:---:|:---:|
+| Players' heatlh updates after every round | Players' statuses updates after every round) |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/add%20new%20rcipe%20or%20sign%20out.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit-delete.png) |
 |:---:|:---:|
