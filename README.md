@@ -28,17 +28,20 @@ Before the start of the game, the player can set the bot difficulty (easy - medu
 |:---:|:---:|
 | Start Game  | Bot difficulty Options |
 
+
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardColors.png) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/cardSets.PNG) |
 |:---:|:---:|
 | Colors of cards in the game and the shark | Card sets options to choose from each round(1-7) |
 
+
 | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/health.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/status.PNG) |
 |:---:|:---:|
-| Players' heatlh updates after every round | Players' statuses updates after every round) |
+| Players' heatlh updates after every round | Players' statuses updates after every round |
 
-| ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/add%20new%20rcipe%20or%20sign%20out.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit-delete.png) |
+
+| ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/limbs.PNG) | ![](https://github.com/aza0092/Get-Bit-Card-Game/blob/master/GetBit%20Project/media/dead.PNG) |
 |:---:|:---:|
-| The vertical ellipsis icon allows option to create new recipe/sign out | Edit or delete a single recipe |
+| players losing limb when getting in last position | player who lost all their limb no longer in the game (card removed ) |
 
 | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20rec.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20ing%20or%20add%20new.png) | ![](https://github.com/aza0092/Cooking-Recipe-Android-App/blob/master/media/edit%20new%20descr.png) |
 |:---:|:---:|:---:|
